@@ -1,0 +1,2 @@
+model_checkpoint_path: "bpnn.ckpt-1000"
+all_model_checkpoint_paths: "bpnn.ckpt-1000"
